@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'kindle-manga-list',
+    title: 'nuxt-scaffold',
     htmlAttrs: {
       lang: 'en'
     },
